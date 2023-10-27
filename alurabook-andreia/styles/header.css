@@ -16,3 +16,7 @@ display: inline-block;
      display: flex;
     align-items: center; 
 }
+
+.container__imagem {
+    padding: lem;
+}
